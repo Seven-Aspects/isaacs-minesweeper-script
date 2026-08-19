@@ -1,3 +1,7 @@
+|Русский|English|
+|:---|:---|
+|[Клик](ru/README_ru.md)|[Click](README.md)|
+
 # Isaac's Minesweeper Script
 
 A control panel for **Isaac's Minesweeper** on Roblox with a modern GUI and a set of tools for automating interaction with the game board.
